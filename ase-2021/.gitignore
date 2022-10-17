@@ -1,0 +1,10 @@
+**/__pycache__/*
+**/venv/*
+**/.pytest_cache/*
+**/*.pyc
+**/*.pdf
+**/*.zip
+**/screenshots/*
+**/.DS_Store
+**/*.pages
+**/*.docx
