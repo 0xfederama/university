@@ -10,8 +10,9 @@ Course | Work | Language
 [Competitive Programming](https://github.com/0xfederama/university/tree/main/master/competitive-programming-contests-exam-2022) | [Report](https://github.com/0xfederama/university/blob/main/master/competitive-programming-contests-exam-2022/String_algorithms.pdf) | C++
 [Parallel Programming](https://github.com/0xfederama/university/tree/main/master/parallel-programming-2022) | Project+Report | C++
 [Smart Applications](https://github.com/0xfederama/university/tree/main/master/smart-applications-2023) | [Project](https://github.com/wi-feye) | Python
+[Principles for Software Composition](https://github.com/0xfederama/university/tree/main/master/principles-for-software-composition-2023) | [Project](https://github.com/0xfederama/university/tree/main/master/principles-for-software-composition-2023) | Go
 
-## Bachelor 🇮🇹
+## Bachelor's
 For the bachelor degree, I started tracking the repos and pushing them here only at the end of the second year. That's why here there are only 5 exams.
 Course | Work | Language
 -------|------|----------
