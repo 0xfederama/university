@@ -11,7 +11,7 @@ Course | Work | Language
 [Parallel Programming](master/parallel-programming-2022) | Project+Report | C++
 [Smart Applications](master/smart-applications-2023) | [Project](https://github.com/wi-feye) | Python
 [Principles for Software Composition](master/principles-for-software-composition-2023) | [Project](master/principles-for-software-composition-2023) | Go
-[Advanced Programming](master/advanced-programming-2024) | [Assignment 1](master/advanced-programming-2024/assignment-1) | [Assignment 2](master/advanced-programming-2024/assignment-2) | Java, Haskell, Python
+[Advanced Programming](master/advanced-programming-2024) | [Assignment 1](master/advanced-programming-2024/assignment-1), [Assignment 2](master/advanced-programming-2024/assignment-2) | Java, Haskell, Python
 
 ## Bachelor's
 For the bachelor degree, I started tracking the repos and pushing them here only at the end of the second year. That's why here there are only 5 exams.
